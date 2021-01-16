@@ -37,7 +37,10 @@ Easy Shop provides real-time updates of grocery items in stocks from local store
 - Download EasyShopApp Folder.
 - Download Android Studio. [Instructions available here](https://developer.android.com/studio).
 - Select Run App as seen below (or press Shift+F10)
-- Application will load for approximately 5 seconds. (May take longer when it’s the first time opening the application.)
+	<div style="text-align:center"> <img src="/images/how-to_steps/step1.jpg" width="1000" height="500"/></div>
+- Application will load for approximately 5 seconds. (May take longer if it’s the first time opening the application.)
+	<div style="text-align:center"> <img src="/images/groceryItemImage.jpg" width="700" height="500"/></div>
+
 
 
 
