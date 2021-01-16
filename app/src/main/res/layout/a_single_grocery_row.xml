@@ -13,14 +13,15 @@
         android:layout_marginTop="16dp"
         android:paddingLeft="16dp"
         android:paddingRight="16dp"
-        android:text="Add to Cart"
+        android:text="@string/add_to_cart"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        app:layout_constraintTop_toBottomOf="@+id/groceryItemTitle" />
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="0dp"
         android:layout_height="200dp"
+        android:contentDescription="@android:string/unknownName"
         android:scaleType="centerCrop"
         android:src="@drawable/bread"
         app:layout_constraintEnd_toEndOf="parent"
@@ -29,13 +30,13 @@
         app:srcCompat="@drawable/bread" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/groceryItemTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:fontFamily="sans-serif-black"
-        android:text="Pretty Good Bread"
+        android:text="@string/fresh_bread"
         android:textColor="#000000"
         android:textSize="24sp"
         android:textStyle="bold"
@@ -46,6 +47,7 @@
         android:id="@+id/imageView3"
         android:layout_width="50dp"
         android:layout_height="50dp"
+        android:contentDescription="@android:string/unknownName"
         android:src="@drawable/ic_baseline_monetization_on_24"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
