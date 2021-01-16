@@ -32,6 +32,7 @@ Easy Shop provides real-time updates of grocery items in stocks from local store
 - Provide wish list feature.
 - Enhance UI for better usability and performance.
 - Allow users the ability to authenticate their app credentials.
+- Build functional application available for iOS devices.
 
 ## How to test the app?
 - Download EasyShopApp Folder.
