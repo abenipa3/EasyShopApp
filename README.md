@@ -16,6 +16,12 @@ We built Easy Shop to enable smooth communication between the customers and the 
 	- Incoming Messages between the customers and the Easy Shop Team
 	- Out-of-Stock Alert for Items Unavailable
 	- Grocery Progress Updates from the Easy Shop Team
+	
+## What's next for Easy Shop?
+- Bug-fix patches
+- Provide wish list feature
+- Enhance UI for better usability and performance
+- Allow users the ability to authenticate their app credentials
 
 
 
