@@ -5,6 +5,8 @@ Customers are turning to various applications to have their groceries delivered 
 
 We built Easy Shop to enable smooth communication between the customers and the Easy Shop team, including a messaging app, notifications on items available and out of stock, and more. 
 
+<div style="text-align:center"> <img src="/images/groceryApp.png" width="220" height="480"/></div>
+
 ## What It Does
 - Create a User Profile
 - Provides a Built-In Grocery List Feature
@@ -15,5 +17,5 @@ We built Easy Shop to enable smooth communication between the customers and the 
 	- Out-of-Stock Alert for Items Unavailable
 	- Grocery Progress Updates from the Easy Shop Team
 
-<img src="groceryItemImage.jpg" width="680" height="500">
+
 
