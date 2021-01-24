@@ -10,7 +10,7 @@ When a grocery item is not available, customers would either receive the wrong i
 Easy Shop provides real-time updates of grocery items in stocks from local stores and alerts the users when the item is not available. With that, customers can easily choose their preferred alternative item and avoid receiving the wrong item upon delivery.
 
 
-<div style="text-align:center"> <img src="/images/groceryApp.png" width="220" height="480"/></div>
+<div style="text-align:center"> <img src="/images/groceryApp.JPG" width="220" height="480"/></div>
 
 ## What It Does
 - Provides a list of available grocery items.
